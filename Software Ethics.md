@@ -16,12 +16,18 @@ I will do all that I can to keep the productivity of myself, and others, as high
 
 I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse. Code will get cleaner with time. Designs will improve with time. I will always check in things a little bit better. I will take ownership of my mess and will not fear to clean bad code. 
 
+**Continuous Aggressive Learning**
 
 I will never stop learning and improving my craft.
 
 ## References 
 
+[http://pledge-of-the-computing-professional.org/home-page/the-oath](http://pledge-of-the-computing-professional.org/home-page/the-oath)
 
+[https://thenewstack.io/five-principles-software-ethics/#:~:text=The%20first%20principle%20of%20software,breaking%20changes%20in%20later%20versions.](https://thenewstack.io/five-principles-software-ethics/#:~:text=The%20first%20principle%20of%20software,breaking%20changes%20in%20later%20versions.)
+
+[https://www.infoq.com/news/2015/11/uncle-bob-oath-programmer/](https://www.infoq.com/news/2015/11/uncle-bob-oath-programmer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjA1NjMzOCwtMjA0NTU1Mzg5OF19
+eyJoaXN0b3J5IjpbLTExNzIzMzk2OTIsLTIwNDU1NTM4OThdfQ
+==
 -->
