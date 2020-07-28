@@ -14,13 +14,14 @@ I will do all that I can to keep the productivity of myself, and others, as high
 
 **Continuous Improvement**
 
-I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse. C
+I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse. Code will get cleaner with time. Designs will improve with time. I will always check in things a little bit better. I will take ownership of my mess and will not fear to clean bad code. 
 
- - I will never stop learning and improving my craft.
+
+I will never stop learning and improving my craft.
 
 ## References 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDQyMzY0OCwtMjA0NTU1Mzg5OF19
+eyJoaXN0b3J5IjpbMTYwNjA1NjMzOCwtMjA0NTU1Mzg5OF19
 -->
