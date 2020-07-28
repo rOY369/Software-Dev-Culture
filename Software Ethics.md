@@ -7,14 +7,18 @@
  **Basic Profession Standard**
  
  The code that I produce will always be my best work. I will not knowingly release code that is defective either in behaviour or structure. I will not ship bad code in order to meet a schedule or to yield to pressure. 
- - I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse.
- - I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity.
+
+**Stable Productivity**
+
+I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity. I will not l
+
+I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse.
+
  - I will never stop learning and improving my craft.
 
 ## References 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQxMDc0NjYsLTIwNDU1NTM4OThdfQ
-==
+eyJoaXN0b3J5IjpbMTU1MDAyNDM5MSwtMjA0NTU1Mzg5OF19
 -->
