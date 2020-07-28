@@ -22,12 +22,13 @@ I will never stop learning and improving my craft.
 
 ## References 
 
+[https://www.youtube.com/watch?v=BSaAMQVq01E&t=4385s](https://www.youtube.com/watch?v=BSaAMQVq01E&t=4385s)
+
 [http://pledge-of-the-computing-professional.org/home-page/the-oath](http://pledge-of-the-computing-professional.org/home-page/the-oath)
 
 [https://thenewstack.io/five-principles-software-ethics/#:~:text=The%20first%20principle%20of%20software,breaking%20changes%20in%20later%20versions.](https://thenewstack.io/five-principles-software-ethics/#:~:text=The%20first%20principle%20of%20software,breaking%20changes%20in%20later%20versions.)
 
 [https://www.infoq.com/news/2015/11/uncle-bob-oath-programmer/](https://www.infoq.com/news/2015/11/uncle-bob-oath-programmer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIzMzk2OTIsLTIwNDU1NTM4OThdfQ
-==
+eyJoaXN0b3J5IjpbNDIxNjQ4Mzc1LC0yMDQ1NTUzODk4XX0=
 -->
