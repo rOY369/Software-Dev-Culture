@@ -10,9 +10,11 @@
 
 **Stable Productivity**
 
-I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity. I will not l
+I will do all that I can to keep the productivity of myself, and others, as high as possible. I will do nothing that decreases that productivity. I will not let the team slow down based on the mess I make because I am not going to make the mess. I will keep mess out of the code. I will write code that is easy and simple to change.
 
-I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse.
+**Continuous Improvement**
+
+I will fearlessly and relentlessly improve the code at every opportunity. I will never make the code worse. C
 
  - I will never stop learning and improving my craft.
 
@@ -20,5 +22,5 @@ I will fearlessly and relentlessly improve the code at every opportunity. I will
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDAyNDM5MSwtMjA0NTU1Mzg5OF19
+eyJoaXN0b3J5IjpbMTgyMDQyMzY0OCwtMjA0NTU1Mzg5OF19
 -->
